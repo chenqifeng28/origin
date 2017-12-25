@@ -307,7 +307,7 @@
               "name": "registry.access.redhat.com/rhscl/perl-524-rhel7:latest"
             }
           }
-        ]
+	}
       }
     },
     {
